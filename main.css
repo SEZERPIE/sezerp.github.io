@@ -1,0 +1,72 @@
+body {
+    background-image: url(/resources/diament.png);
+    font-family: Georgia;
+}
+
+
+#nadnadbaner {
+    background-color: skyblue;
+    text-align: center;
+    color: white;
+    height: 200px;
+}
+
+
+#nadbaner {
+    background-image: url(/resources/grass_block_side.png);
+    text-align: center;
+    color: white;
+    height: 16px;
+}
+
+#baner {
+    background-image: url(/resources/dirt.png);
+    text-align: center;
+    color: white;
+    height: 50px;
+}
+
+#lewy {
+    width: 60%;
+    font-size: 150%;
+    margin: 50px;
+    float: left;
+}
+
+#prawy {
+    width: 40%;
+    font-size: 150%;
+    float: right;
+    color: white;
+    font-family: Georgia;
+}
+
+#dolny {
+    background-image: url(/resources/bedrock.png);
+    padding: 16px;
+}
+
+#stopka {
+    background-color: #0EA2A9;
+    color: white;
+    height: 80px;
+}
+
+img {
+    height: 300px;
+}
+
+table {
+    border: 1px solid;
+}
+
+* {
+    margin: 0;
+}
+
+#podziemie {
+    background-image: url(/resources/bedrock.png);
+    text-align: center;
+    color: white;
+    height: 16px;
+}
